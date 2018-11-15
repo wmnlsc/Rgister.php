@@ -1,6 +1,6 @@
 <?php
     require("password.php");
-    $connect = mysqli_connect("smartcorpgaming.000webhostapp.com", "id7871463_smartcorp", "@Klok809Dr", "id7871463_ascg070718");
+    $connect = mysqli_connect("smartcorpgaming.000webhostapp.com", "id7871463_smartcorp", "............", "id7871463_ascg070718");
     
     $name = $_POST["name"];
     $age = $_POST["age"];
